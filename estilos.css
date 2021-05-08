@@ -1,23 +1,11 @@
-/* estilo de todos los elementos header, section */
-header,section {
-
-}
-/* estilo de del elemento con id="cabecera" */
-#cabecera{}
-/* estilo de elementos que tengan class="xxxx" .xxxx */
 .agrupar{
     padding: 30px;
-    
 }
 .cabecera{
     text-align: center;
-    
-
 }
 .cuerpo{
     text-align: justify;
-    
-
 }
 #fecha{
     text-align: right;
@@ -25,7 +13,3 @@ header,section {
 footer{
     text-align: center;
 }
-/* estilo que afecta a todo el documento*/
-*{}
-/* estilo que afecta a los elementos blocquote que tengan el atributo cite */
-blockquote[cite]{}
