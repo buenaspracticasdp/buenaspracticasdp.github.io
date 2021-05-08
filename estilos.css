@@ -6,17 +6,17 @@ header,section {
 #cabecera{}
 /* estilo de elementos que tengan class="xxxx" .xxxx */
 .agrupar{
-    padding: 15px;
-    border: 1px solid black;
+    padding: 30px;
+    
 }
 .cabecera{
     text-align: center;
-    border: 1px solid black;
+    
 
 }
 .cuerpo{
     text-align: justify;
-    border: 1px solid black;
+    
 
 }
 #fecha{
