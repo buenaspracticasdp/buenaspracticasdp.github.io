@@ -1,0 +1,30 @@
+/* estilo de todos los elementos header, section */
+header,section {}
+/* estilo de del elemento con id="cabecera" */
+#cabecera{}
+/* estilo de elementos que tengan class="xxxx" .xxxx */
+.agrupar{
+    width: 960px;
+    margin: 10px auto;
+    border: 1px solid black;
+}
+.cabecera{
+    text-align: center;
+    border: 1px solid black;
+
+}
+.cuerpo{
+    text-align: justify;
+    border: 1px solid black;
+
+}
+#fecha{
+    text-align: right;
+}
+footer{
+    text-align: center;
+}
+/* estilo que afecta a todo el documento*/
+*{}
+/* estilo que afecta a los elementos blocquote que tengan el atributo cite */
+blockquote[cite]{}
