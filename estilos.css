@@ -15,3 +15,12 @@
 footer{
     text-align: center;
 }
+.celda{
+    width: 320px;
+    text-align: center;
+}
+.img-celda{
+    max-width: fit-content;
+    width: 320px;
+    height: auto;
+}
