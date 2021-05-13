@@ -13,7 +13,6 @@
 }
 #fecha{
     text-align: right;
-    width: 70%;
 }
 footer{
     text-align: center;
@@ -28,6 +27,7 @@ footer{
 }
 .menu{
     text-align: left;
+    width: 100%;
 }
 .menu li{
     list-style: none;
