@@ -5,23 +5,32 @@
 }
 .cabecera{
     text-align: center;
-    width: 100%;
+    width: 70%;
 }
 .cuerpo{
     text-align: left;
+    width: 70%;
 }
 #fecha{
     text-align: right;
+    width: 70%;
 }
 footer{
     text-align: center;
+    width: 70%;
 }
 .celda{
     width: 320px;
     text-align: center;
 }
-.img-celda{
-    max-width: fit-content;
-    width: 320px;
-    height: auto;
+.fila_tabla{
+    margin: 80px auto;
+}
+.menu{
+    text-align: left;
+}
+.menu li{
+    list-style: none;
+    font:  14px verdana;
+    display: inline-block;
 }
